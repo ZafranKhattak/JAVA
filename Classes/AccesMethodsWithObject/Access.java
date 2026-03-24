@@ -1,3 +1,4 @@
+package Classes.AccesMethodsWithObject;
 public class Access {
     
     static void FullThrotle()
