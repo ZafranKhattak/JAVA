@@ -19,6 +19,5 @@ class Input
         int age = in.nextInt();
         System.out.println("My age is " + age);
         inp.close();
-        in.close();
     }
 }

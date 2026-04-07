@@ -1,24 +1,21 @@
-class Address
-{
+class Address {
     String city;
 }
 
-class Student{
+class Student {
 
     Address address;
 
-    Student(Address address)
-    {
+    Student(Address address) {
         this.address = address;
     }
 
-    void display()
-    {
+    void display() {
         System.out.println("Address: " + address.city);
     }
 }
 
-class Main{
+class Main {
     public static void main(String[] args) {
         Address address = new Address();
 
