@@ -10,7 +10,7 @@ class Main
 */
 
 /*
-CREATING OBJECT
+// CREATING OBJECT
 */
 
 /*
